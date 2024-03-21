@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Colour's Food Industries](https://coloursfood.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Kotlin Fleet for Multiplatform**
 
 - 👨‍💻 All of my projects are available at [https://www.ahosan.niyamatonline.com/](https://www.ahosan.niyamatonline.com/)
 
