@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kotlin Fleet for Multiplatform**
 
-- 👨‍💻 All of my projects are available at [https://www.ahosan.niyamatonline.com/](https://www.ahosan.niyamatonline.com/)
+- 👨‍💻 All of my projects are available at [https://www.niyamatgroup.com/](https://www.niyamatgroup.com/)
 
 - 💬 Ask me about **Java, PHP, JavaScript, HTML, CSS, Bootstrap, Node Js, Sass, Laravel, Android**
 
